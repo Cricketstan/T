@@ -1,0 +1,13 @@
+{
+  "name": "fancode-schedule-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes FanCode cricket schedule and exposes JSON API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^20.8.1"
+  }
+}
